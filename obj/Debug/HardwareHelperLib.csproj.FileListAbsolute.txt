@@ -1,0 +1,5 @@
+C:\Desarrollo\HardwareHelperLibrary\bin\Debug\HardwareHelperLib.dll
+C:\Desarrollo\HardwareHelperLibrary\bin\Debug\HardwareHelperLib.pdb
+C:\Desarrollo\HardwareHelperLibrary\obj\Debug\HardwareHelperLib.csprojResolveAssemblyReference.cache
+C:\Desarrollo\HardwareHelperLibrary\obj\Debug\HardwareHelperLib.dll
+C:\Desarrollo\HardwareHelperLibrary\obj\Debug\HardwareHelperLib.pdb
